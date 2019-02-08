@@ -5,7 +5,9 @@ Based on the original JS version of [not-paid by kleampa](https://github.com/kle
 Add opacity to the body tag and decrease it every day until their site completely fades away.
 
 ## Usage
-Just install the plugin into WordPress -> Goto Settings -> Not-Paid-WP -> Set a Due & a Deadline period
+Download the plugin as a [zip from GitHub](https://github.com/SurfEdge/not-paid-wp/archive/master.zip)
+
+Install the plugin (zip) into WordPress -> Goto Settings -> Not-Paid-WP -> Set a Due & a Deadline period
 
 Note: The plugin will only work if the due date and deadline are provided :)
 ![Settings Screenshot](https://raw.githubusercontent.com/SurfEdge/not-paid-wp/master/settings.png)
