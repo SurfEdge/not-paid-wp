@@ -8,6 +8,7 @@ Add opacity to the body tag and decrease it every day until their site completel
 Just install the plugin into WordPress -> Goto Settings -> Not-Paid-WP -> Set a Due & a Deadline period
 
 Note: The plugin will only work if the due date and deadline are provided :)
+![Settings Screenshot](https://raw.githubusercontent.com/SurfEdge/not-paid-wp/master/settings.png)
 
 ## Contributors
 WordPress Plugin by [chamathpali](https://github.com/chamathpali) at [SurfEdge](https://github.com/SurfEdge) 
