@@ -115,7 +115,7 @@ function not_paid_wp_deadline_render(  ) {
 
 function not_paid_wp_settings_section_callback(  ) { 
 
-	echo __( 'Add opacity to the body tag and decrease it every day until their site completely fades away.<br>Set a due date and customize the number of days you offer them until the website is fully vanished.<br><h4>This will only work if you set the below values!</h4>', 'Not Paid WP' );
+	echo __( 'Add opacity to the body tag and decrease it every day until their site completely fades away.<br>Set a due date and customize the number of days you offer them until the website is fully vanished.<br>Contribute at <a href="https://github.com/SurfEdge/not-paid-wp">https://github.com/SurfEdge/not-paid-wp</a><br><h4>This will only work if you set the below values!</h4>', 'Not Paid WP' );
 
 }
 
