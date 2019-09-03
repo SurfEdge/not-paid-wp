@@ -45,7 +45,7 @@ function run_not_paid() {
 				var opacity = (days_late*100/days_deadline)/100;
 					opacity = (opacity < 0) ? 0 : opacity;
 					opacity = (opacity > 1) ? 1 : opacity;
-				if(opacity >= 0 && opacity <= 1) {
+				if(opacity >= 0 && opacity < 1) {
 					document.getElementsByTagName("BODY")[0].style.opacity = opacity;
 				}
 			}
